@@ -1,4 +1,5 @@
-## Heyoo everyone, welcome to by guide!!
+## Welcome to Git!!
 
-- yo, Johnny here!
+- Yo, Johnny here!
+- This is coming from 'dev-diego'
 - I'm adding this from 'feature-branch'
